@@ -2,7 +2,7 @@
 
 ![Transformer Architecture](resources/transformer.png)  
 
-The goal of this project is to deepen my understanding of PyTorch and Transformer architectures by hands-on building each component step by step in Pytorch. 
+## The goal of this project is to deepen my understanding of PyTorch and Transformer architectures by hands-on building each component step by step in Pytorch. 
 
 ## Majore components/modules of the architecture?  
 - Positional Encoding (Using sine/cosine and static)
