@@ -1,6 +1,6 @@
 # Transformers from Scratch in PyTorch  
 
-![Transformer Architecture](resources\transformer.png)  
+![Transformer Architecture](resources/transformer.png)  
 
 This repository contains my PyTorch implementation of the Transformer model from scratch. The goal of this project is to deepen my understanding of PyTorch and Transformer architectures by building each component step by step.  
 
